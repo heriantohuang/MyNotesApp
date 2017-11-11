@@ -1,4 +1,4 @@
-package com.halsh.mynotesapp.db;
+package com.halsh.dicodingnotesapp.db;
 
 import android.database.Cursor;
 import android.net.Uri;
